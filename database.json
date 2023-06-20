@@ -5,32 +5,32 @@
         {
 
             "id":1,
-            "name":"KitKat",
-            "size":"L"
+            "name":"Nike",
+            "size":"7"
 
         },
 
         {
 
             "id":1,
-            "name":"Bar-One",
-            "size":"XL"
+            "name":"Adidas",
+            "size":"8"
 
         },
 
         {
 
             "id":1,
-            "name":"Tex",
-            "size":"Sm"
+            "name":"Puma",
+            "size":"9"
 
         },
 
         {
 
             "id":1,
-            "name":"Wonder-bar",
-            "size":"L"
+            "name":"Vans",
+            "size":"6"
 
         }
 
