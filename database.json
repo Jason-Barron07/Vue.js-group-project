@@ -1,0 +1,39 @@
+{
+
+    "chocolate": [
+
+        {
+
+            "id":1,
+            "name":"KitKat",
+            "size":"L"
+
+        },
+
+        {
+
+            "id":1,
+            "name":"Bar-One",
+            "size":"XL"
+
+        },
+
+        {
+
+            "id":1,
+            "name":"Tex",
+            "size":"Sm"
+
+        },
+
+        {
+
+            "id":1,
+            "name":"Wonder-bar",
+            "size":"L"
+
+        }
+
+    ]
+
+}
